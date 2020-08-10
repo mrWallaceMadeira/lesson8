@@ -21,7 +21,7 @@ Here are a few useful built-in methods for use on strings &nbsp;:arrow_down:
 ### :hand:&nbsp; Stop! 
 Watch [this](https://youtube.com) for more on string methods
 
-### C'est fini
+### :performing_arts:&nbsp;C'est fini
 Entry ticket [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxUMlRSMlo3SFU0UTEwTUZLTTM5QU1ETFhaUSQlQCN0PWcu)
 
    
