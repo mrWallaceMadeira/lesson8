@@ -3,6 +3,7 @@ Remember back to when we used `Scanner.nextLine()` to read input?\
 What we did then was use an existing method that is part of the `Scanner` class
  - Methods are just chunks of code that belong to a class and serve a particular purpose (e.g. reading keyboard input)
  - The `.nextLine()` method is just code someone else wrote and we can use. Sharing is caring &nbsp; :heart: 
+
 The kind folks that provide this lovely, free code are at a company called Oracle.\
 They provide all sorts of helpful hints and tutorials [here](https://docs.oracle.com/javase/tutorial/java/index.html)
 
