@@ -15,7 +15,7 @@ Here are a few useful built-in methods for use on strings &nbsp;:arrow_down:
   3. `String.concat()` allows us to combine two `String`s into one
       - We can also use the addition operator like this: `String myCombinationString = "hello"` + `"world"`
       
-### &nbsp; Stop! 
+### :hand: &nbsp; Stop! 
 Watch [this](https://youtube.com) for more on string methods
 
    
