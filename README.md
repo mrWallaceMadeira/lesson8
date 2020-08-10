@@ -13,5 +13,9 @@ Here are a few useful built-in methods for use on strings &nbsp;:arrow_down:
     - :pushpin:&nbsp; The `0` above is the **index** of a character in a string
       - The index of a `String` always starts at 0.
   3. `String.concat()` allows us to combine two `String`s into one
+    - We can also use the addition operator like this: `String myCombinationString = "hello"` + `"world"`
+  4. `String.substring(startIndex, endIndex)` will create a smaller string based on the index specified
+    - 
+    
   
 
