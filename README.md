@@ -15,9 +15,14 @@ Here are a few useful built-in methods for use on strings &nbsp;:arrow_down:
       - The index of a `String` always starts at 0.
   3. `String.concat()` allows us to combine two `String`s into one
       - We can also use the addition operator like this: `String myCombinationString = "hello"` + `"world"`
+  4. `String.equals(myString)` is used to compare string equality.
+      - :pushpin:&nbsp; We _do not_ use `==` to compare string equality
       
 ### :hand:&nbsp; Stop! 
 Watch [this](https://youtube.com) for more on string methods
+
+### C'est fini
+Entry ticket [here]()
 
    
    
