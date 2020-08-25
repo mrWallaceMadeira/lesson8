@@ -1,4 +1,4 @@
-# Lesson 8: Take the easy way out
+# Lesson 4: Take the easy way out
 Remember back to when we used `Scanner.nextLine()` to read input?\
 What we did then was use an existing method that is part of the `Scanner` class
  - Methods are just chunks of code that belong to a class and serve a particular purpose (e.g. reading keyboard input)
